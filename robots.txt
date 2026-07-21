@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-4lkc49.rtb-system.online/sitemap.xml
